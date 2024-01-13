@@ -1,5 +1,5 @@
 # CECZ4034 Information Retrieval Group 17
-# Project - 2023 Recession
+### Project - 2023 Recession
 
 ## About / Synopsis
 
